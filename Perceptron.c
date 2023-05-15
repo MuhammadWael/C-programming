@@ -5,7 +5,7 @@
 #define NUM_OF_INPUTS 3
 #define NUM_OF_LOGIC_INPUTS 4
 #define LONGEST_GATE 4
-
+/*Expecting The logic gate by simple Machine Learning Code*/
 typedef struct perceptron
 {
     int x[NUM_OF_INPUTS];
